@@ -1,0 +1,10 @@
+{
+  "name": "Antora to GitHub Pages",
+  "description": "Build Antora docs and deploy to GitHub Pages (Node, pnpm, upload-pages-artifact, deploy-pages). Root Strategy; requires antora-playbook.yml and docs/.",
+  "iconName": "octicon book",
+  "categories": ["Pages", "Deployment"],
+  "filePatterns": [
+    "antora-playbook\\.yml$",
+    "docs/antora\\.yml$"
+  ]
+}
