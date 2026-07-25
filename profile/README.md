@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../assets/logo.svg" alt="antora-supplemental" width="96" height="96" />
+  <img src="../assets/logo-avatar.svg" alt="antora-supplemental" width="128" height="128" />
 </p>
 
 ![Viewing as](https://img.shields.io/badge/Viewing%20as-public-0B6E4F)
