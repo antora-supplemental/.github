@@ -2,9 +2,9 @@
   <img src="../assets/logo.svg" alt="antora-supplemental" width="96" height="96" />
 </p>
 
-![Tip](https://img.shields.io/badge/Tip-use%20View%20as%20(right)%20to%20switch%20profiles-0B6E4F)
-
-Org members: swap the role in the **View as** button on the right of this profile page to switch between the public and member views.
+| View | Tip |
+|------|-----|
+| ![View](https://img.shields.io/badge/View-public-0B6E4F) | Swap the role in **View as** (right) to switch profiles |
 
 A GitHub organization for **supplemental features and tooling** around [Antora](https://antora.org). The Antora project does not maintain GitHub-specific assets such as Actions and repository templates; this org hosts those and related ecosystem projects.
 
