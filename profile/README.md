@@ -2,6 +2,8 @@
 
 A GitHub organization for **supplemental features and tooling** around [Antora](https://antora.org). The Antora project does not maintain GitHub-specific assets such as Actions and repository templates; this org hosts those and related ecosystem projects.
 
+**Welcome site:** https://antora-supplemental.github.io/ · **Docs:** https://antora-supplemental.github.io/docs/
+
 ## What we host
 
 - **GitHub-specific assets** — Actions and workflow templates that Antora has declined to maintain
