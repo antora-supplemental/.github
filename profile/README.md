@@ -2,9 +2,7 @@
   <img src="../assets/logo.svg" alt="antora-supplemental" width="96" height="96" />
 </p>
 
-| View | Tip |
-|------|-----|
-| ![View](https://img.shields.io/badge/View-public-0B6E4F) | Swap the role in **View as** (right) to switch profiles |
+![Viewing as](https://img.shields.io/badge/Viewing%20as-public-0B6E4F)
 
 A GitHub organization for **supplemental features and tooling** around [Antora](https://antora.org). The Antora project does not maintain GitHub-specific assets such as Actions and repository templates; this org hosts those and related ecosystem projects.
 
@@ -29,14 +27,6 @@ A GitHub organization for **supplemental features and tooling** around [Antora](
 | [antora-dark-mode](https://github.com/antora-supplemental/antora-dark-mode) | Dark mode supplemental UI for Antora documentation sites |
 | [valentus-theme](https://github.com/antora-supplemental/valentus-theme) | Composed doc-site chrome (pair with antora-dark-mode) |
 
+---
+
 Organization workflow templates live in the `workflow-templates/` directory of this repository (`.github`) and in [.github-private](https://github.com/antora-supplemental/.github-private) for private repos.
-
-## Brand assets
-
-Org-wide mark and avatar files live in [`assets/`](../assets/):
-
-| File | Use |
-|------|-----|
-| `logo.svg` | Header / profile mark (transparent) |
-| `logo-avatar.svg` | Squircle canvas for avatars |
-| `logo-256.png` | GitHub organization avatar upload (256×256) |
