@@ -1,0 +1,84 @@
+= Changelog
+
+== 2026-11-20
+
+=== Docs template pointer
+
+* Record the suggested default docs template from dev-centr/agent-rules. The choice is a URL in this repo, not a pasted copy of the template.
+
+== 2026-10-17
+
+=== Add reusable docs-hub link-cache-invalidate dispatch workflo
+
+* Add reusable docs-hub link-cache-invalidate dispatch workflow.
+
+== 2026-10-06
+
+=== ci enable Dependabot for GitHub Actions (monthly, grouped)
+
+* ci: enable Dependabot for GitHub Actions (monthly, grouped)
+
+== 2026-10-05
+
+=== Repair double-encoded UTF-8 characters
+
+* Repair double-encoded UTF-8 characters.
+* Add encoding guard (UTF-8 mojibake check).
+
+== 2026-08-18
+
+=== Link dev-centr/agent-rules as a submodule so this org does n
+
+* Link dev-centr/agent-rules as a submodule so this org does not keep a second copy.
+* Point contributors to the org-level agent-rules repository.
+* Point contributors to org-level agent-rules wrapper repository.
+* Point contributors at the org overlay and canonical agent-rules.
+
+== 2026-07-31
+
+=== Link the org profile to antora-supplementalorg, docs, and re
+
+* Link the org profile to antora-supplemental.org, docs, and registry.
+* Document canonical public vs private org GitHub config.
+
+== 2026-07-25
+
+=== Drop Viewing as badge from org profile
+
+* Drop Viewing as badge from org profile.
+
+== 2026-07-24
+
+=== Link welcome site and docs near top of org profile
+
+* Link welcome site and docs near top of org profile.
+* Lead org profiles with centered logo and View as tip.
+* Lead org profile with logo and View badge table.
+* Simplify profile badge to Viewing as and trim footer.
+* Use logo-avatar for the org profile hero.
+* Move Viewing as badge to the end of the profile.
+* Slim public profile to intro plus details below the divider.
+* Drop welcome site and docs links from the public profile.
+* Remove redundant What we host section from the profile.
+* Color the public Viewing as badge blue.
+
+== 2026-06-09
+
+=== docs list antora-dark-mode and valentus-theme in org profile
+
+* docs: list antora-dark-mode and valentus-theme in org profile.
+
+== 2026-03-18
+
+=== Update github profile to be purpose-only
+
+* Update .github profile to be purpose-only
+* Add profile README for GitHub org profile
+* Rewrite profile README to describe antora-supplemental and link notable repos
+
+== 2026-03-08
+
+=== Add Antora to GitHub Pages workflow template for org sidebar
+
+* Add Antora to GitHub Pages workflow template for org sidebar
+

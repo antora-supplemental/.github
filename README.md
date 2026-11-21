@@ -26,3 +26,7 @@ https://docs.github.com/en/actions/using-workflows/creating-starter-workflows-fo
 
 * Private org config: https://github.com/antora-supplemental/.github-private
 * Docs hub (Actions / Pages): https://antora-supplemental.github.io/docs/docs/antora-github-actions.html
+
+## Changelog
+
+See [CHANGELOG.adoc](CHANGELOG.adoc).
